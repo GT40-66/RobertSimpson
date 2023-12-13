@@ -6,7 +6,7 @@
   - (https://github.com/GT40-66/Building-a-SIEM/blob/main/README.md)
  <br/>
 - <b>Vulnerability Management </b> <br/>
-  - (https://github.com/GT40-66/Building-a-SIEM/blob/main/README.md)
+  -(https://github.com/GT40-66/Vulnerability-Management)
 
 <h2> Certifications:</h2>
 CompTIA Security+ <br/>  
