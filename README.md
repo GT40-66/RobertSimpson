@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Building a SIEM (AlgoExpert)</b>
-  - ([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/GT40-66/Building-a-SIEM/blob/main/README.md))
+- <b>Building a SIEM </b>
+  - (https://github.com/GT40-66/Building-a-SIEM/blob/main/README.md)
 
 <h2> Certifications:</h2>
 CompTIA Security+,  
