@@ -2,11 +2,13 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Building a SIEM </b>
-  - (https://github.com/GT40-66/Building-a-SIEM/blob/main/README.md)
+- <b>Building a SIEM</b>
+  - <b>(https://github.com/GT40-66/Building-a-SIEM/blob/main/README.md)</b>
  <br/>
-- <b>Vulnerability Management </b> <br/>
-  -(https://github.com/GT40-66/Vulnerability-Management)
+- <b>Vulnerability Management</b> <br/>
+  - <b>(https://github.com/GT40-66/Vulnerability-Management)<br>
+- <b>Home Lab</b> <br/>
+  - <b>(https://github.com/GT40-66/HomeLab/blob/main/README.md)</b>
 
 <h2> Certifications:</h2>
 CompTIA Security+ <br/>  
