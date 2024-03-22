@@ -13,6 +13,8 @@
 <h2> Certifications:</h2>
 CompTIA Security+ <br/>  
 CompTIA Server+ <br/>
+CompTIA CySA+ <br/>
+CompTIA PenTest <br/>
 Google IT Support Fundamentals <br/>
 Google Automation with Python <br/>
 AWS Academy Cloud Foundations
