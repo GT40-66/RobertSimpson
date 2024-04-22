@@ -14,13 +14,14 @@
 CompTIA Security+ <br/>  
 CompTIA Server+ <br/>
 CompTIA CySA+ <br/>
-CompTIA PenTest <br/>
+CompTIA PenTest+ <br/>
+CompTIA CASP+ <br/>
 Google IT Support Fundamentals <br/>
 Google Automation with Python <br/>
 AWS Academy Cloud Foundations
 
 <h2> 🔭 I’m currently working on ... </h2>
-- I am currently working on the CompTIA CASP+. 
+- I am currently working on Python programming 
 <br/>
 
 
