@@ -3,12 +3,12 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Building a SIEM</b>
-  - <b>(https://github.com/GT40-66/Building-a-SIEM/blob/main/README.md)</b>
+  - <b>https://github.com/GT40-66/Building-a-SIEM/blob/main/README.md</b>
  <br/>
 - <b>Vulnerability Management</b> <br/>
-  - <b>(https://github.com/GT40-66/Vulnerability-Management)<br>
+  - <b>https://github.com/GT40-66/Vulnerability-Management<br>
 - <b>Home Lab</b> <br/>
-  - <b>(https://github.com/GT40-66/HomeLab/blob/main/README.md)</b>
+  - <b>https://github.com/GT40-66/HomeLab/blob/main/README.md</b>
 
 <h2> Certifications:</h2>
 CompTIA Security+ <br/>  
@@ -21,19 +21,19 @@ Google Automation with Python <br/>
 AWS Academy Cloud Foundations
 
 <h2> Python Projects </h2>
-<b>(https://github.com/GT40-66/Snake-)</b>
+<b>https://github.com/GT40-66/Snake-</b>
 <br/>
-<b> (https://github.com/GT40-66/Pong)</b>
+<b>https://github.com/GT40-66/Pong</b>
 <br/>
 
 <h2> C# / Unity Projects </h2>
-<b>(https://github.com/GT40-66/Hallowed-Halls-2)</b>
+<b>https://github.com/GT40-66/Hallowed-Halls-2</b>
 <br/>
-<b> (https://github.com/GT40-66/ZeldaRemake)</b>
+<b>https://github.com/GT40-66/ZeldaRemake</b>
 <br/>
-<b>(https://github.com/GT40-66/MarioRemake)</b>
+<b>https://github.com/GT40-66/MarioRemake</b>
 <br/>
-<b> (https://github.com/GT40-66/RockslideBeta)</b>
+<b>https://github.com/GT40-66/RockslideBeta</b>
 
 
 <h2> 🤳 Connect with me:</h2>
