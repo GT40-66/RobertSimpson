@@ -20,9 +20,20 @@ Google IT Support Fundamentals <br/>
 Google Automation with Python <br/>
 AWS Academy Cloud Foundations
 
-<h2> 🔭 I’m currently working on ... </h2>
-- I am currently working on Python programming 
+<h2> Python Projects </h2>
+<b>(https://github.com/GT40-66/Snake-)</b>
 <br/>
+<b> (https://github.com/GT40-66/Pong)</b>
+<br/>
+
+<h2> C# / Unity Projects </h2>
+<b>(https://github.com/GT40-66/Hallowed-Halls-2)</b>
+<br/>
+<b> (https://github.com/GT40-66/ZeldaRemake)</b>
+<br/>
+<b>(https://github.com/GT40-66/MarioRemake)</b>
+<br/>
+<b> (https://github.com/GT40-66/RockslideBeta)</b>
 
 
 <h2> 🤳 Connect with me:</h2>
