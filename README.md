@@ -7,15 +7,15 @@
  <br/>
 - <b>Vulnerability Management</b> <br/>
   - <b>https://github.com/GT40-66/Vulnerability-Management<br>
-- <b>Home Lab</b> <br/>
+- <b>Active Directory and Splunk</b> <br/>
   - <b>https://github.com/GT40-66/HomeLab/blob/main/README.md</b>
 
 <h2> Certifications:</h2>
-CompTIA Security+ <br/>  
-CompTIA Server+ <br/>
-CompTIA CySA+ <br/>
-CompTIA PenTest+ <br/>
 CompTIA CASP+ <br/>
+CompTIA PenTest+ <br/>
+CompTIA CySA+ <br/>
+CompTIA Server+ <br/>
+CompTIA Security+ <br/>  
 Google IT Support Fundamentals <br/>
 Google Automation with Python <br/>
 AWS Academy Cloud Foundations
