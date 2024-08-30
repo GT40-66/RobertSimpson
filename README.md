@@ -8,7 +8,7 @@
 - <b>Vulnerability Management</b> <br/>
   - <b>https://github.com/GT40-66/Vulnerability-Management<br>
 - <b>Active Directory and Splunk</b> <br/>
-  - <b>https://github.com/GT40-66/HomeLab/blob/main/README.md</b>
+  - <b>https://github.com/GT40-66/Active-Directory-Homelab</b>
 
 <h2> Certifications:</h2>
 CompTIA CASP+ <br/>
