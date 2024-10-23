@@ -3,6 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Building a SOC at Home </B>
+- <b> https://github.com/GT40-66/Building-a-SOC-at-Home/blob/main/README.md </b>
 
 - <b>Building a SIEM</b>
   - <b>https://github.com/GT40-66/Building-a-SIEM/blob/main/README.md</b>
