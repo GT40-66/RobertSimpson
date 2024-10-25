@@ -6,11 +6,10 @@
   - <b> https://github.com/GT40-66/Building-a-SOC-at-Home/blob/main/README.md </b>
 - <b>Building a SIEM</b>
   - <b>https://github.com/GT40-66/Building-a-SIEM/blob/main/README.md</b>
- <br/>
-- <b>Vulnerability Management</b> <br/>
-  - <b>https://github.com/GT40-66/Vulnerability-Management<br>
-- <b>Active Directory and Splunk</b> <br/>
-  - <b>https://github.com/GT40-66/Active-Directory-Homelab</b>
+- <b> Vulnerability Management </b> 
+  - <b> https://github.com/GT40-66/Vulnerability-Management</b>
+- <b> Active Directory and Splunk </b> 
+  - <b> https://github.com/GT40-66/Active-Directory-Homelab </b>
 
 <h2> Certifications:</h2>
 CompTIA CASP+ <br/>
