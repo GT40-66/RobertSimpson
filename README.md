@@ -17,6 +17,7 @@ CompTIA PenTest+ <br/>
 CompTIA CySA+ <br/>
 CompTIA Server+ <br/>
 CompTIA Security+ <br/>  
+Working on CCNA, expected Dec 2024 <br/>
 Google IT Support Fundamentals <br/>
 Google Automation with Python <br/>
 AWS Academy Cloud Foundations
