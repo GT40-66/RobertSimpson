@@ -33,6 +33,12 @@
 ### Penetration Testing
 <div>
 <img src="https://img.shields.io/badge/-Crowbar-0078D4?&style=for-the-badge&logo=Crowbar&logoColor=white" />
+<img src="https://img.shields.io/badge/-BurpSuite-FF7300?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-2E8B57?&style=for-the-badge&logo=Nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploit-5B2C6B?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+
+
+
 </div>
 
 ## Certifications
