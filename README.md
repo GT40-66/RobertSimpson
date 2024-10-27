@@ -1,9 +1,9 @@
 <h1>Hello, I'm Rob! <br/>
 <a href="https://www.linkedin.com/in/robert-simpson-a0984b22b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I currently am a system and information assurance administrator for the DoD as well as a Signal officer in the Delaware Army National Guard.
+<b> I currently am a system and information assurance administrator for the DoD as well as a Signal officer in the Delaware Army National Guard. </b>
 
-Cybersecurity is more than just a career field I hope to work in. It is something I practice and study daily. Whether its building my own computer or home server, studying for certifications, or labbing on TryHackMe, it is a skill that I try to improve on each day. With the increased capabilities of bad actors, the field needs dedicated professionals who see cybersecurity as a craft that needs to continually be improved upon. I am eager to demonstrate my abilities as a cyber threat analyst. 
+<b> Cybersecurity is more than just a career field I hope to work in. It is something I practice and study daily. Whether its building my own computer or home server, studying for certifications, or labbing on TryHackMe, it is a skill that I try to improve on each day. With the increased capabilities of bad actors, the field needs dedicated professionals who see cybersecurity as a craft that needs to continually be improved upon. I am eager to demonstrate my abilities as a cyber threat analyst. </b>
 
 | Skill                                 | Associated Project          |
 |---------------------------------------|-----------------------------|
