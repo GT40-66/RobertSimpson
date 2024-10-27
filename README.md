@@ -14,18 +14,47 @@
 | Vulnerability Scanning & Remediation  |<a href="https://github.com/GT40-66/Vulnerability-Management"> Vulnerability Management</a>|
 | Log analysis & Management             |<a href="https://github.com/GT40-66/Active-Directory-Homelab"> Active Directory and Splunk</a> |
 
+## Tools
 
-<h2> Certifications:</h2>
-CompTIA CASP+ <br/>
-CompTIA PenTest+ <br/>
-CompTIA CySA+ <br/>
-CompTIA Server+ <br/>
-CompTIA Security+ <br/>  
-Working on CCNA, expected Dec 2024 <br/>
-Google IT Support Fundamentals <br/>
-Google Automation with Python <br/>
-AWS Academy Cloud Foundations
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-1679A7?&style=for-the-badge&logo=Nessus&logoColor=white" />
 
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Penetration Testing
+<div>
+<img src="https://img.shields.io/badge/-Crowbar-0078D4?&style=for-the-badge&logo=Crowbar&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-CASP%2B-0078D4?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-PenTest%2B-000000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA%2B-00AA00?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Server%2B-800080?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+  
+</div>
+
+## Cybersecurity Projects
+<div>
+<a href="https://github.com/GT40-66/Building-a-SOC-at-Home/blob/main/README.md"> Building a SOC at home </a> </br>
+<a href="https://github.com/GT40-66/Building-a-SIEM/blob/main/README.md">Building a SIEM</a></br>
+<a href="https://github.com/GT40-66/Active-Directory-Homelab"> Active Directory and Splunk</a></br>
+<a href="https://github.com/GT40-66/Vulnerability-Management"> Vulnerability Management</a>
+</div>
+
+ ## Coding Projects
 <h2> Python Projects </h2>
 <b>https://github.com/GT40-66/Snake-</b>
 <br/>
@@ -41,12 +70,6 @@ AWS Academy Cloud Foundations
 <br/>
 <b>https://github.com/GT40-66/RockslideBeta</b>
 
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="RobSimpson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/robert-simpson-a0984b22b
 
 <!--
 
