@@ -8,22 +8,12 @@
 ## Skills
 | Skill                                 | Associated Project          |
 |---------------------------------------|-----------------------------|
-| SIEM Implementation and Log Analysis  | Building a SIEM             |
-| Domain building and management        | Active Directory and Splunk |
-| Building alerts, rules, & dashboards  | Building a SOC at home      |
-| 
+| SIEM Implementation and Log Analysis  |<a href="https://github.com/GT40-66/Building-a-SIEM/blob/main/README.md">Building a SIEM</a>|
+| Domain building and management        |<a href="https://github.com/GT40-66/Active-Directory-Homelab"> Active Directory and Splunk</a>|
+| Building alerts, rules, & dashboards  |<a href="https://github.com/GT40-66/Building-a-SOC-at-Home/blob/main/README.md"> Building a SOC at home </a>|
+| Vulnerability Scanning & Remediation  |<a href="https://github.com/GT40-66/Vulnerability-Management"> Vulnerability Management</a>|
+| Log analysis & Management             |<a href="https://github.com/GT40-66/Active-Directory-Homelab"> Active Directory and Splunk</a> |
 
-
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b> Building a SOC at Home </b>
-  - <b> https://github.com/GT40-66/Building-a-SOC-at-Home/blob/main/README.md </b>
-- <b>Building a SIEM</b>
-  - <b>https://github.com/GT40-66/Building-a-SIEM/blob/main/README.md</b>
-- <b> Vulnerability Management </b> 
-  - <b> https://github.com/GT40-66/Vulnerability-Management</b>
-- <b> Active Directory and Splunk </b> 
-  - <b> https://github.com/GT40-66/Active-Directory-Homelab </b>
 
 <h2> Certifications:</h2>
 CompTIA CASP+ <br/>
