@@ -1,5 +1,5 @@
 <h1>Hello, I'm Rob! <br/>
-<a href="[https://linkedin.com](https://www.linkedin.com/in/robert-simpson-a0984b22b)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/robert-simpson-a0984b22b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Building a SOC at Home </b>
