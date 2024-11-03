@@ -1,5 +1,6 @@
 ## Hello, I'm Rob! 
 <a href="https://www.linkedin.com/in/robert-simpson-a0984b22b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@rwsimpson99"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 <b> I am currently a system and information assurance administrator for the DoD as well as a Signal officer in the Delaware Army National Guard. </b>
 ## Objective
