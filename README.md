@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/robert-simpson-a0984b22b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@rwsimpson99"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
-<b> I am currently an information security analyst for the DoD as well as a Signal officer in the Delaware Army National Guard. </b>
+<b> I am currently an information security analyst as well as a Signal officer in the Delaware Army National Guard. </b>
 ## Objective
 <b> Cybersecurity is more than just a career field I work in. It is something I practice and study daily. Whether it's building my own computer or home server, studying for certifications, or labbing on TryHackMe, it is a skill that I try to improve on each day. With the increased capabilities of bad actors, the field needs dedicated professionals who see cybersecurity as a craft that needs to continually be improved upon. </b>
 
