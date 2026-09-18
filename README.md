@@ -15,6 +15,52 @@
 | Vulnerability Scanning & Remediation  |<a href="https://github.com/GT40-66/Vulnerability-Management"> Vulnerability Management</a>|
 | Log analysis & Management             |<a href="https://github.com/GT40-66/Active-Directory-Homelab"> Active Directory and Splunk</a> |
 
+# Education
+<div>
+    <b>
+        Master's of Science: Cybersecurity Management and Policy - University of Maryland Global Campus - 2026
+    </b>
+    <p> 
+        Foundations of Cybersecurity Management   <br/>
+        Cybersecurity Defense Strategies    <br/>
+        Cybersecurity Risk Management    <br/>
+        Cybersecurity Governance    <br/>
+        Law, Regulation, and Compliance    <br/>
+        Cybersecurity Management and Policy Capstone     <br/>
+    </p>
+    <br/>
+    <b>
+        Graduate Certificate: Digital Forensics and Incident Response - University of Maryland Global Campus - 2026
+    </b>
+    <p>
+        Digital Forensics and Cyber Investigations Foundations    <br/>
+        Collection and Examination of Digital Evidence    <br/>
+        Windows Forensics and Security    <br/>
+        Linux Forensics and Security    <br/>
+    </p>
+    <br/>
+    <b> 
+        Functional Mission Analysis - Cyber (FMA-C) - 223 Cyber Operations Squadron - 2025
+    </b>
+    <br/>
+    <b> 
+        Mission Assurance Cyber Coordination Element (MACCE) 101 - 223 Cyber Operations Squadron - 2025
+    </b>
+      <br/>
+    <b> 
+        Mission Assurance Decision Support System (MADSS) - 223 Cyber Operations Squadron - 2025 
+    </b>
+      <br/>
+    <b> 
+       Signal Basic Officer Leadership Course - Fort Gordon, GA - 2023
+    </b>
+    <br/>
+    <b>
+        Bachelor's of Science: Kinesiology - Temple University - 2022
+    </b>
+    
+</div>
+
 ## Tools
 
 ### Network
