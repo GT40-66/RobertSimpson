@@ -26,6 +26,7 @@
         Cybersecurity Risk Management    <br/>
         Cybersecurity Governance    <br/>
         Law, Regulation, and Compliance    <br/>
+        <a href="https://github.com/GT40-66/RobertSimpson/blob/main/CMAP%20645%20Final%20Paper%20Final%20Draft.pdf"> pdf</a> <br/>
         Cybersecurity Management and Policy Capstone     <br/>
     </p>
     <br/>
