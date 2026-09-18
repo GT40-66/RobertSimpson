@@ -3,8 +3,8 @@
 <a href="https://medium.com/@rwsimpson99"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 <b> I am currently an information security analyst as well as a Signal officer in the Delaware Army National Guard. </b>
-## Objective
-<b> Cybersecurity is more than just a career field I work in. It is something I practice and study daily. Whether it's building my own computer or home server, studying for certifications, or labbing on TryHackMe, it is a skill that I try to improve on each day. With the increased capabilities of bad actors, the field needs dedicated professionals who see cybersecurity as a craft that needs to continually be improved upon. </b>
+## About Me
+<b> Cybersecurity professional with extensive experience in vulnerability analysis, project management, and system administration gained through both military service and civilian roles. Experienced in leading small and medium sized teams, technical writing, and implementing NIST controls. Possesses knowledge in programming, digital forensics and incident response, and writing from academic work, self-study, capture-the-flag competitions, and home labs. Will graduate Fall semester 2026 with a Master's of Science in Cybersecurity Management and Policy along with a graduate certificate in Digital Forensics and Cyber Investigations.  </b>
 
 ## Skills
 | Skill                                 | Associated Project          |
