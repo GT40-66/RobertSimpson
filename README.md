@@ -4,7 +4,7 @@
 
 <b> I am currently an information security analyst as well as a Signal officer in the Delaware Army National Guard. </b>
 ## About Me
-<b> Cybersecurity professional with extensive experience in vulnerability analysis, project management, and system administration gained through both military service and civilian roles. Experienced in leading small and medium sized teams, technical writing, and implementing NIST controls. Possesses knowledge in programming, digital forensics and incident response, and writing from academic work, self-study, capture-the-flag competitions, and home labs. Will graduate Fall semester 2026 with a Master's of Science in Cybersecurity Management and Policy along with a graduate certificate in Digital Forensics and Cyber Investigations.  </b>
+<b> Information security analyst with 4 years of experience including Windows system administration, satelite and line-of-site communications, project management, and vulnerability analysis. Experienced with a variety of tools including Splunk, Wireshark, Xacta, Active Directory and more. I am current on my CompTIA Security X (formerly CASP+) and have an active TS/SCI clearance. I am looking to progress my career in information security.  Possesses knowledge in programming, digital forensics and incident response, and writing from academic work, self-study, capture-the-flag competitions, and home labs. Will graduate Fall semester 2026 with a Master's of Science in Cybersecurity Management and Policy along with a graduate certificate in Digital Forensics and Cyber Investigations.  </b>
 
 ## Skills
 | Skill                                 | Associated Project          |
