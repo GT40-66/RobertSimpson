@@ -26,7 +26,6 @@
         Cybersecurity Risk Management    <br/>
         Cybersecurity Governance    <br/>
         Law, Regulation, and Compliance    <br/>
-        <a href="https://github.com/GT40-66/RobertSimpson/blob/main/CMAP%20645%20Final%20Paper%20Final%20Draft.pdf"> pdf</a> <br/>
         Cybersecurity Management and Policy Capstone     <br/>
     </p>
     <br/>
@@ -61,29 +60,6 @@
     </b>
     
 </div>
-
-## Tools
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-1679A7?&style=for-the-badge&logo=Nessus&logoColor=white" />
-
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-### Penetration Testing
-<div>
-<img src="https://img.shields.io/badge/-Crowbar-0078D4?&style=for-the-badge&logo=Crowbar&logoColor=white" />
-<img src="https://img.shields.io/badge/-BurpSuite-FF7300?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
-<img src="https://img.shields.io/badge/-Nmap-2E8B57?&style=for-the-badge&logo=Nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/-Metasploit-5B2C6B?&style=for-the-badge&logo=Metasploit&logoColor=white" />
 
 
 
